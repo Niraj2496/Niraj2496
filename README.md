@@ -21,6 +21,7 @@ I'm a dedicated Cloud DevOps Engineer specializing in automating cloud infrastru
 
 * Advanced AWS Services (EKS, CloudFront, RDS)
 * Python for Advanced Automation (APIs, Multi-threading)
+* Now im focusing on MLops,FinOps,GitOps And AI Tools
 
 ## 💡 My Goals
 
