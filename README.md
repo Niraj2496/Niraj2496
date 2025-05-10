@@ -7,41 +7,38 @@
 
 I'm a dedicated Cloud DevOps Engineer specializing in automating cloud infrastructure, CI/CD pipelines, and scalable deployments. With hands-on experience in various DevOps tools and best practices, I ensure efficient and secure cloud operations.
 
-🔧 Skills & Tools
+## 🔧 Skills & Tools
 
-🌐 Cloud
+### 🌐 Cloud
 
-AWS (EC2, S3, IAM, Lambda, CloudFormation)
+* AWS (EC2, S3, IAM, Lambda, CloudFormation)
 
-📦 Containers
+### 📦 Containers
 
-Docker
+* Docker
+* Kubernetes (Minikube, Production Deployments)
 
-Kubernetes (Minikube, Production Deployments)
+### ⚙️ CI/CD
 
-⚙️ CI/CD
+* Jenkins
+* GitHub Actions
 
-Jenkins
+### 📜 Configuration Management
 
-GitHub Actions
+* Ansible
 
-📜 Configuration Management
+### 🛠️ Infrastructure as Code
 
-Ansible
+* Terraform
 
-🛠️ Infrastructure as Code
+### 📊 Monitoring
 
-Terraform
+* Prometheus
+* Grafana
 
-📊 Monitoring
+### 📝 Scripting & Automation
 
-Prometheus
-
-Grafana
-
-📝 Scripting & Automation
-
-Python (APIs, Automation Scripts)
+* Python (APIs, Automation Scripts)
 
 ## 🌱 Currently Learning
 
@@ -53,3 +50,12 @@ Python (APIs, Automation Scripts)
 
 * Master Advanced DevOps Tools and Best Practices
 * Gain Expertise in Advanced AWS Services
+  
+## 📈 GitHub Stats
+
+![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niraj2496r&show_icons=true\&theme=radical)
+
+## 💬 Connect with Me
+
+* [Email](mailto:adinirganjiwar@gmail.com)
+* [Instagram](https://www.instagram.com/nirajganjiwar)
