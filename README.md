@@ -27,9 +27,3 @@ I'm a dedicated Cloud DevOps Engineer specializing in automating cloud infrastru
 
 * Master Advanced DevOps Tools and Best Practices
 * Gain Expertise in Advanced AWS Services
-
-💬 Connect with Me
-
-Email
-
-Instagram
