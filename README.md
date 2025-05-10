@@ -7,15 +7,41 @@
 
 I'm a dedicated Cloud DevOps Engineer specializing in automating cloud infrastructure, CI/CD pipelines, and scalable deployments. With hands-on experience in various DevOps tools and best practices, I ensure efficient and secure cloud operations.
 
-## 🔧 Skills & Expertise
+🔧 Skills & Tools
 
-* **Cloud:** AWS (EC2, S3, IAM, Lambda, CloudFormation)
-* **Containers:** Docker, Kubernetes (Minikube, Production Deployments)
-* **CI/CD:** Jenkins, GitHub Actions
-* **Configuration Management:** Ansible
-* **Infrastructure as Code (IaC):** Terraform
-* **Monitoring:** Prometheus, Grafana
-* **Scripting & Automation:** Python (APIs, Automation Scripts)
+🌐 Cloud
+
+AWS (EC2, S3, IAM, Lambda, CloudFormation)
+
+📦 Containers
+
+Docker
+
+Kubernetes (Minikube, Production Deployments)
+
+⚙️ CI/CD
+
+Jenkins
+
+GitHub Actions
+
+📜 Configuration Management
+
+Ansible
+
+🛠️ Infrastructure as Code
+
+Terraform
+
+📊 Monitoring
+
+Prometheus
+
+Grafana
+
+📝 Scripting & Automation
+
+Python (APIs, Automation Scripts)
 
 ## 🌱 Currently Learning
 
