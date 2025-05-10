@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/57db60f8-5b14-4719-9c5f-9c88cf74f10a)
-# 👋 Hi, I'm Niraj Banayya Ganjiwar
+#                    👋 Hi, I'm Niraj Banayya Ganjiwar
 
-🚀 **Passionate Cloud DevOps Engineer | Hyderabad**
+  🚀          **Passionate Cloud DevOps Engineer | Hyderabad**
 
 ## 🚀 About Me
 
