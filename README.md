@@ -54,4 +54,4 @@ I'm a dedicated Cloud DevOps Engineer specializing in automating cloud infrastru
   
 ## 📫 How to Reach Me
 
-* ✉️ Email: [adinirganjiwar@gmail.com](mailto:adinirganjiwar@gmail.com)
+* ✉️ Email: [adinirganjiwar@gmail.com](mailto:adinirganjiwar143@gmail.com)
