@@ -54,4 +54,3 @@ I'm a dedicated Cloud DevOps Engineer specializing in automating cloud infrastru
 ## 💬 Connect with Me
 
 * [Email](mailto:adinirganjiwar@gmail.com)
-* [Instagram](https://www.instagram.com/nirajganjiwar)
