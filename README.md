@@ -55,6 +55,6 @@ I'm a dedicated Cloud DevOps Engineer specializing in automating cloud infrastru
 ## 📫 How to Reach Me
 
 * ✉️ Email: [adinirganjiwar@gmail.com](mailto:adinirganjiwar@gmail.com)
-* 💼 LinkedIn: [Niraj Ganjiwar](https://www.linkedin.com/in/nirajganjiwar)
+* 💼 LinkedIn: www.linkedin.com/in/niraj-ganjiwar-335992364
 * 📸 Instagram: [@nirajganjiwar](https://www.instagram.com/nirajganjiwar)
 * 🏗️ GitHub: [@nirajganjiwar](https://github.com/nirajganjiwar)
