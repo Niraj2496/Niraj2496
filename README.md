@@ -51,10 +51,6 @@ I'm a dedicated Cloud DevOps Engineer specializing in automating cloud infrastru
 * Master Advanced DevOps Tools and Best Practices
 * Gain Expertise in Advanced AWS Services
   
-## 📈 GitHub Stats
-
-![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niraj2496r&show_icons=true\&theme=radical)
-
 ## 💬 Connect with Me
 
 * [Email](mailto:adinirganjiwar@gmail.com)
