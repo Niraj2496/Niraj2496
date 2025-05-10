@@ -28,7 +28,7 @@ I'm a dedicated Cloud DevOps Engineer specializing in automating cloud infrastru
   
 ## 📈 GitHub Stats
 
-![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajganjiwar24\&show_icons=true\&theme=radical)
+![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajBanayya\&show_icons=true\&theme=radical)
 
 
 
